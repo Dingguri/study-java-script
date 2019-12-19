@@ -6,3 +6,11 @@
     color: skyblue;
     text-align: center;
 }
+
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
