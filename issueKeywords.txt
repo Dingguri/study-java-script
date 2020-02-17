@@ -1,0 +1,69 @@
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Content-Length: 610
+
+{
+  "keywordList" : [ {
+    "title" : "I feel bloom I feel bloom I feel bloom 너에게 한 송이를 더 보내",
+    "rankingChange" : 0
+  }, {
+    "title" : "서울시 서초구 반포대로 3 이스트빌딩 (우) 06711",
+    "rankingChange" : 1
+  }, {
+    "title" : "?焦?",
+    "rankingChange" : 2
+  }, {
+    "title" : "おはようございます",
+    "rankingChange" : -1
+  }, {
+    "title" : "조윤희 이동건 딸",
+    "rankingChange" : 2
+  }, {
+    "title" : "문우람",
+    "rankingChange" : -1
+  }, {
+    "title" : "윤형빈",
+    "rankingChange" : 0
+  }, {
+    "title" : "초치",
+    "rankingChange" : 0
+  }, {
+    "title" : "실시간 이슈 검색어",
+    "rankingChange" : 2
+  }, {
+    "title" : "동국대학교",
+    "rankingChange" : -1
+  }, {
+    "title" : "연예",
+    "rankingChange" : 0
+  }, {
+    "title" : "스포츠",
+    "rankingChange" : 0
+  }, {
+    "title" : "박승민 천재",
+    "rankingChange" : 2
+  }, {
+    "title" : "시큐리티",
+    "rankingChange" : -1
+  }, {
+    "title" : "줌인터넷",
+    "rankingChange" : 0
+  }, {
+    "title" : "이스트 소프트",
+    "rankingChange" : 0
+  }, {
+    "title" : "알툴바",
+    "rankingChange" : 2
+  }, {
+    "title" : "알송",
+    "rankingChange" : -1
+  }, {
+    "title" : "알약",
+    "rankingChange" : 0
+  }, {
+    "title" : "알집",
+    "rankingChange" : 0
+  } ],
+  "apiCallCycle" : 5,
+  "rankingDateTime" : "2020.02.24 오후 13:14"
+}
